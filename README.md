@@ -1,2 +1,2 @@
 # PyQt_SketchPad
- A SketchPad application implemented with PyQt.
+A SketchPad application implemented with PyQt.
